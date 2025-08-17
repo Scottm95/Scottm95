@@ -16,7 +16,7 @@ Currently based in Glasgow and looking to move into a dedicated **Data Analyst**
 - [Credit Monitoring Dashboard](https://github.com/Scottm95/credit-monitoring-sql-powerbi)
 - [Excel QA Dashboard](https://github.com/Scottm95/excel-qa-dashboard)
 - [Python + Power Automate Data Cleaning](https://github.com/Scottm95/python-powerautomate-reporting)
-- [Python Cleaning + Excel Dashboard - Sales Audits] (https://github.com/Scottm95/commercial-audit-data-python-excel)
+- [Python Cleaning + Excel Dashboard - Sales Audits](https://github.com/Scottm95/commercial-audit-data-python-excel)
 
 ## 📧 Contact
 - Email: [smacarthur95@gmail.com](mailto:smacarthur95@gmail.com)
