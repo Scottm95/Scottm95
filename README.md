@@ -13,6 +13,7 @@ Currently based in Glasgow and looking to move into a dedicated **Data Analyst**
 [Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/Scott%20MacArthur%20CV.pdf)
 
 ## 📂 Portfolio Projects
+- [End to end customer journey dashboard](https://github.com/Scottm95/end-to-end-customer-journey-dashboard)
 - [Credit Monitoring Dashboard](https://github.com/Scottm95/credit-monitoring-sql-powerbi)
 - [Python + Power Automate Data Cleaning](https://github.com/Scottm95/python-powerautomate-reporting)
 - [Python Cleaning + Excel Dashboard - Sales Audits](https://github.com/Scottm95/commercial-audit-data-python-excel)
