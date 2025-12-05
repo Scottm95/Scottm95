@@ -6,6 +6,8 @@ I build dashboards, data models, and workflows that make reporting faster, clear
 I work across the full data lifecycle; from cleaning and transforming operational datasets, to designing multi-page analytics dashboards, to automating manual reporting processes.
 Recent projects include:
 
+Contact Centre KPI Dashboard (SQL + Power BI, using Genesys Cloud call data) 
+
 End-to-end customer journey dashboard (Power BI)
 
 Team Leader performance dashboard (Excel + Power Query)
@@ -18,11 +20,12 @@ I'm currently based in Glasgow and moving into a dedicated Business Intelligence
 
 
 ## 📄 My CV
-[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/Scott%20MacArthur%20CV%2023.11.25.pdf)
+[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/Scott%20MacArthur%20CV%2005.12.25.pdf)
 
 ## 📂 Portfolio Projects
-- [End to end customer journey dashboard](https://github.com/Scottm95/end-to-end-customer-journey-dashboard)
-- [Credit Monitoring Dashboard](https://github.com/Scottm95/credit-monitoring-sql-powerbi)
+- [Contact Centre KPI Dashboard (SQL + Power BI)](https://github.com/Scottm95/contact-centre-kpi-dashboard)
+- [End to end customer journey dashboard (Power BI + DAX) ](https://github.com/Scottm95/end-to-end-customer-journey-dashboard)
+- [Credit Monitoring Dashboard (SQL + Power BI)](https://github.com/Scottm95/credit-monitoring-sql-powerbi)
 - [Python + Power Automate Data Cleaning](https://github.com/Scottm95/python-powerautomate-reporting)
 - [Python Cleaning + Excel Dashboard - Sales Audits](https://github.com/Scottm95/commercial-audit-data-python-excel)
 - [Excel Team Leader Performance Dashboard](https://github.com/Scottm95/excel-tl-performance-calibration-dashboard)
