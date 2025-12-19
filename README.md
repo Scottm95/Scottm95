@@ -20,7 +20,7 @@ I'm currently based in Glasgow and moving into a dedicated Business Intelligence
 
 
 ## 📄 My CV
-[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/Scott%20MacArthur%20CV%2005.12.25.pdf)
+[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/Scott%20MacArthur%20CV%20Dec%202025.pdf)
 
 ## 📂 Portfolio Projects
 - [Contact Centre KPI Dashboard (SQL + Power BI)](https://github.com/Scottm95/contact-centre-kpi-dashboard)
