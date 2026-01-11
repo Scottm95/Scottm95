@@ -1,26 +1,28 @@
 # Hi, I'm Scott 👋
 
-I'm a data-driven analyst specialising in Power BI, SQL, Excel (Power Query), and Python automation.
-I build dashboards, data models, and workflows that make reporting faster, clearer, and more reliable.
+I'm a reporting / BI analyst focused on building self-serve dashboards and automated reporting workflows that make performance reporting faster, clearer and more reliable.
 
-I work across the full data lifecycle; from cleaning and transforming operational datasets, to designing multi-page analytics dashboards, to automating manual reporting processes.
-Recent projects include:
+I work end-to-end: extracting and cleaning operational datasets, modelling data for reporting, building KPI definitions/measures, and delivering stakeholder-ready dashboards and MI packs.
 
-Contact Centre KPI Dashboard (SQL + Power BI, using Genesys Cloud call data) 
+Recent work includes:
 
-End-to-end customer journey dashboard (Power BI)
+Contact Centre KPI Dashboard (Genesys Cloud call data) — SQL + Power BI
 
-Team Leader performance dashboard (Excel + Power Query)
+End-to-end Customer Journey MI Suite — Power BI + SharePoint/Power Query
 
-Credit monitoring dashboard (SQL + Power BI)
+Credit Monitoring Dashboard — SQL + Power BI
 
-Python → Power Automate reporting automation pipeline
+Automated reporting pipeline (CSV → cleaned Excel → SharePoint) — Python + Power Automate
 
-I'm currently based in Glasgow and moving into a dedicated Business Intelligence / Data Analyst role where I can apply technical skills to real business problems, improve decision-making, and build impactful reporting solutions.
+Team Leader Performance Dashboard — Excel + Power Query
+
+
+
+Based in Glasgow and currently seeking BI / MI / Data Analyst roles where I can build scalable reporting solutions and support better decisions.
 
 
 ## 📄 My CV
-[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/Scott%20MacArthur%20CV%20Dec%202025.pdf)
+[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/ScottMacArthurCVJan26.pdf)
 
 ## 📂 Portfolio Projects
 - [Contact Centre KPI Dashboard (SQL + Power BI)](https://github.com/Scottm95/contact-centre-kpi-dashboard)
