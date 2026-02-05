@@ -22,7 +22,7 @@ Based in Glasgow and currently seeking BI / MI / Data Analyst roles (Power BI + 
 
 
 ## 📄 My CV
-[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/ScottMacArthurCVJan26.pdf)
+[Download my CV](https://github.com/Scottm95/Scott-MacArthur-CV/blob/main/ScottMacArthurCV.pdf)
 
 ## 📧 Contact
 - Email: [smacarthur95@gmail.com](mailto:smacarthur95@gmail.com)
